@@ -1,0 +1,7 @@
+# executables
+*.exe
+lsc
+lscwin
+
+# VS Code
+.vscode/
